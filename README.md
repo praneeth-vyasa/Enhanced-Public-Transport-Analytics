@@ -15,7 +15,7 @@ This project aims to optimize public transportation routes and uncover key insig
 * Install Python dependencies using pip install -r requirements.txt.
 * Set up your SQL database environment and import the provided dataset.
 * Ensure you have Microsoft Excel and Power BI Desktop installed.
-* ## Usage
+## Usage
 * Excel Dashboard: Open Excel_Dashboard.xlsx to explore interactive visualizations with PivotTables, graphics, and form controls.
 * SQL Analysis: Execute SQL_Analysis.sql in your database to perform advanced time-series analysis and identify peak periods and bottlenecks.
 * Python Scripts: Run TransportDataAnalyzer.py for data cleaning, storing, analysis, and visualization using Pandas and Matplotlib.
